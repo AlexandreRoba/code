@@ -2,13 +2,21 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/node-dev/test/fixture/server.js" />
         <item url="file://$PROJECT_DIR$/apps/authentication/Routes.js" />
-        <item url="file://$PROJECT_DIR$/apps/authentication/Routes.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/node-dev/node_modules/chokidar/test/chokidar-test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/node-dev/node_modules/chokidar/src/is-binary.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/node-dev/test/fixture/cluster.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/node-dev/node_modules/chokidar/src/index.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/node-dev/test/fixture/server.js" />
       <root url="file://$PROJECT_DIR$/apps/authentication/Routes.js" />
-      <root url="file://$PROJECT_DIR$/apps/authentication/Routes.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/node-dev/node_modules/chokidar/test/chokidar-test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/node-dev/node_modules/chokidar/src/is-binary.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/node-dev/node_modules/chokidar/src/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/node-dev/test/fixture/cluster.js" />
     </CLASSES>
     <SOURCES />
   </library>

@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50232e17-e991-4822-b39a-ddc8adbdb9ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/stylesheets/_colors.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/stylesheets/_layout.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/stylesheets/_looks.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/stylesheets/_typography.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/stylesheets/admin.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/stylesheets/chef.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/stylesheets/login.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/stylesheets/mixins-stage.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/stylesheets/sidewalk.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/authentication/Routes.coffee" afterPath="$PROJECT_DIR$/apps/authentication/Routes.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/authentication/Routes.js" afterPath="$PROJECT_DIR$/apps/authentication/Routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/authentication/Routes.map" afterPath="$PROJECT_DIR$/apps/authentication/Routes.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="$PROJECT_DIR$/views/layout.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/authentication/views/login.html" afterPath="$PROJECT_DIR$/apps/authentication/views/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/authentication/views/login.jade" afterPath="$PROJECT_DIR$/apps/authentication/views/login.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HotPie.iws" />
@@ -44,46 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.jade" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/apps/authentication/views/login.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="823">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/layout.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="17" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/layout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Routes.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Routes.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/authentication/Routes.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="44" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="38" selection-start="346" selection-end="346" vertical-scroll-proportion="-136.0" vertical-offset="0" max-vertical-offset="697">
+            <state line="4" column="19" selection-start="116" selection-end="116" vertical-scroll-proportion="0.08262455" vertical-offset="0" max-vertical-offset="823">
               <folding />
             </state>
           </provider>
@@ -114,10 +60,10 @@
       <list>
         <option value="$PROJECT_DIR$/apps/authentication/Routes.Coffee.coffee" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/apps/authentication/Routes.coffee" />
         <option value="$PROJECT_DIR$/views/layout.jade" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/apps/authentication/views/login.jade" />
+        <option value="$PROJECT_DIR$/apps/authentication/Routes.coffee" />
       </list>
     </option>
   </component>
@@ -210,14 +156,6 @@
               <option name="myItemId" value="authentication" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login.jade" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -228,7 +166,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="appearance" />
+    <property name="options.lastSelected" value="settings.nodejs" />
     <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -311,14 +249,22 @@
       <created>1382792808197</created>
       <updated>1382792808197</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished the first part of the application">
+      <created>1382807357073</created>
+      <updated>1382807357073</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished the first part of the application">
+      <created>1382808699490</created>
+      <updated>1382808699490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1244" y="1" width="1332" height="1400" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991317" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991317" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291239" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -367,23 +313,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.15390946" vertical-offset="0" max-vertical-offset="1215">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/authentication/Routes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="10" selection-start="101" selection-end="101" vertical-scroll-proportion="0.06849315" vertical-offset="0" max-vertical-offset="1241">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/authentication/Routes.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="44" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
           <folding />
         </state>
       </provider>
@@ -402,6 +334,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="38" selection-start="346" selection-end="346" vertical-scroll-proportion="0.3313033" vertical-offset="0" max-vertical-offset="821">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
@@ -409,23 +348,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="38" selection-start="346" selection-end="346" vertical-scroll-proportion="-136.0" vertical-offset="0" max-vertical-offset="697">
+        <state line="8" column="17" selection-start="170" selection-end="170" vertical-scroll-proportion="0.1652491" vertical-offset="0" max-vertical-offset="823">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+        <state line="11" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.23462985" vertical-offset="0" max-vertical-offset="797">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/authentication/views/login.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+        <state line="10" column="34" selection-start="291" selection-end="291" vertical-scroll-proportion="0.20656136" vertical-offset="0" max-vertical-offset="823">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/authentication/Routes.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="116" selection-end="116" vertical-scroll-proportion="0.08262455" vertical-offset="0" max-vertical-offset="823">
           <folding />
         </state>
       </provider>
