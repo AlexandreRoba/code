@@ -5,6 +5,8 @@
 require('coffee-script');
 
 var express = require('express');
+    RedisStore = require('connect-redis')(express);
+
 var http = require('http');
 var path = require('path');
 
@@ -19,6 +21,11 @@ app.use(express.favicon());
 app.use(express.logger('dev'));
 app.use(express.bodyParser());
 app.use(express.methodOverride());
+app.use(express.cookieParser());
+app.use(express.session({
+    secret:"dsfhgjfdshgkshgkdshglsifdshf",
+    store: new RedisStore
+}));
 app.use(app.router);
 app.use(express.static(path.join(__dirname, 'public')));
 

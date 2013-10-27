@@ -1,0 +1,3 @@
+helpers = (app) ->
+
+  module.exports

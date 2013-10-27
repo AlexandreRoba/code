@@ -3,11 +3,21 @@
   var routes;
 
   routes = function(app) {
-    return app.get('/login', function(req, res) {
+    app.get('/login', function(req, res) {
       return res.render("" + __dirname + "\\views\\login", {
         title: 'Login',
         stylesheet: 'login'
       });
+    });
+    return app.post('/sessions', function(req, res) {
+      if (('alex' === req.body.user) && ('12345' === req.body.password)) {
+        req.session.currentUser = req.body.user;
+        req.flash('info', "You are logged in as " + req.session.currentUser);
+        res.redirect('/login');
+        return;
+      }
+      req.flash('error', 'Those credentials were incorrect. Try again.');
+      return res.redirect('/login');
     });
   };
 
