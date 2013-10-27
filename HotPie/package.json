@@ -9,6 +9,13 @@
     "coffee-script": "~1.6.3"
   },
   "devDependencies": {
-    "node-dev": "~2.0.2"
+    "node-dev": "~2.0.2",
+    "mocha": "~1.13.0",
+    "request": "~2.27.0",
+    "should": "~2.0.2",
+    "libxmljs": "~0.8.1"
+  },
+  "scripts":{
+      "test":".\\bin\\test.bat"
   }
 }

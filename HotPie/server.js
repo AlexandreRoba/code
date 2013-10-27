@@ -8,7 +8,7 @@ var express = require('express');
 var http = require('http');
 var path = require('path');
 
-var app = express();
+var app = module.exports = express.createServer();
 
 // all environments
 app.set('port', process.env.PORT || 3000);
@@ -25,6 +25,10 @@ app.use(express.static(path.join(__dirname, 'public')));
 // development only
 if ('development' == app.get('env')) {
   app.use(express.errorHandler());
+}
+
+if ('test' == app.get('env')) {
+    app.set('port',3001);
 }
 
 //Routes
